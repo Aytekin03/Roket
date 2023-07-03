@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement; 
 
-// Bunu yazan tosun okuyana
+// degiþiklik yapýldýysa evet de
 
 public class Carpisma : MonoBehaviour
 {
