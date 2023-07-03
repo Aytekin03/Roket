@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement; 
 
-// Bunu yazan tosun
+// Bunu yazan tosun okuyana
 
 public class Carpisma : MonoBehaviour
 {
